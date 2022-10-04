@@ -11,3 +11,5 @@ Demo do jogo da vida de Conway
 ## Demo
 
 ![demo](https://raw.githubusercontent.com/lucas26xd/Game_of_life/master/demo.gif)
+
+[Página de referência e mais informações do jogo](https://pt.wikipedia.org/wiki/Jogo_da_vida).
